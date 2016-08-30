@@ -1,3 +1,5 @@
 this is the first file for learning git
-no file is add in the repository.
+this file has be added in the repository
+
+now the file has been change.   
    
