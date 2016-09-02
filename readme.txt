@@ -1,7 +1,6 @@
-this is the first file for learning git
-this file has be added in the repository
+This repository is only for learning git.
+All the codes and files is NOT for reference.
+ 
+Don't use any code in this repository.
+Thank you.
 
-now the file has been change.  
-
-add one line in this file. 
-   
